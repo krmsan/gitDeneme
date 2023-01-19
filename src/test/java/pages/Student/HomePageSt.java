@@ -14,4 +14,9 @@ public class HomePageSt {
     public void betul (){
         System.out.println("deneme");
     }
+
+
+    public void betuull (){
+        System.out.println("deneme2");
+    }
 }
