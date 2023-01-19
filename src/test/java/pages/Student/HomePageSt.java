@@ -15,11 +15,16 @@ public class HomePageSt {
         System.out.println("deneme");
     }
 
+
+
+    public void betuull (){
+        System.out.println("deneme2");
+    }
+
     public void abulkerim22222(){
 
-
-
     }
+
 
 
 
