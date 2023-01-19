@@ -10,4 +10,8 @@ public class HomePageSt {
     public void abdulkerim(){
 
     }
+
+    public void betul (){
+        System.out.println("deneme");
+    }
 }
