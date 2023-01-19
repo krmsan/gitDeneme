@@ -14,4 +14,13 @@ public class HomePageSt {
     public void betul (){
         System.out.println("deneme");
     }
+
+    public void abulkerim22222(){
+
+
+
+    }
+
+
+
 }
